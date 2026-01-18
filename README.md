@@ -1,5 +1,7 @@
 # City Map Poster Generator
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/denicomc/maptoposter/HEAD)
+
 Generate beautiful, minimalist map posters for any city in the world.
 
 <img src="posters/singapore_neon_cyberpunk_20260108_184503.png" width="250">
