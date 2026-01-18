@@ -1,6 +1,6 @@
 # City Map Poster Generator
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/denicomc/maptoposter/HEAD?labpath=src/generate_maps.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/denicomc/maptoposter/HEAD?labpath=generate_maps.ipynb)
 
 Generate beautiful, minimalist map posters for any city in the world.
 
