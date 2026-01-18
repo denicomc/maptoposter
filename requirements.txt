@@ -9,7 +9,7 @@ geopy==2.4.1
 idna==3.11
 kiwisolver==1.4.9
 matplotlib==3.10.8
-networkx==3.6.1
+networkx==3.2.1
 numpy==2.4.0
 osmnx==2.0.7
 packaging==25.0
